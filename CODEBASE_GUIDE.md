@@ -1,7 +1,7 @@
 # LDAWSPT - Codebase Navigation & Feature Development Guide
 
 This document acts as an architectural guide for developers working on the **LDAWSPT** learning platform. It maps out the directory layout, configuration configurations, default database credentials, and provides target instructions for developing upcoming roadmap features.
-
+Features are need to improove more 
 ---
 
 ## 📂 Codebase Maps & Architecture Reference
