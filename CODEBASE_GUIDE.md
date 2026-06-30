@@ -4,7 +4,7 @@ This document acts as an architectural guide for developers working on the **LDA
 Features are need to improove more 
 ---
 
-## 📂 Codebase Maps & Architecture Reference
+## 📂 Codebase Maps & Architecture Reference - it helps to achieve the project efficiency and right process for work done progress
 
 ### 1. Spring Boot Backend Layout
 The backend uses a standard MVC design patterns (Controller -> Service Implementation -> Repository -> Database Entity).
